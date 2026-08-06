@@ -1,6 +1,7 @@
-Practical 3 - Max Heap Sort
+## Practical 3 - Max Heap Sort
 
-Aim :
+## Aim :
+
 To implement the Max Heap Sort algorithm in C++.
 
 ## Language
