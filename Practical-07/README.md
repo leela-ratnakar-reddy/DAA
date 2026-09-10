@@ -41,8 +41,3 @@ Where:
 
 * `n` = number of coin denominations
 * `A` = target amount
-
-## Technology Used
-
-* Python 3
-* Dynamic Programming
